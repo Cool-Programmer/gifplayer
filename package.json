@@ -1,0 +1,22 @@
+{
+  "name": "gif-player-jquery",
+  "version": "0.2.2",
+  "description": "Customizable jquery plugin to play and stop animated gifs. Similar to 9gag's. Supports video",
+  "main": "js/jquery.gifplayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viperoo/gifplayer.git"
+  },
+  "keywords": [
+    "gif"
+  ],
+  "author": "Ruben Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Viperoo/gifplayer/issues"
+  },
+  "homepage": "https://github.com/Viperoo/gifplayer#readme"
+}
